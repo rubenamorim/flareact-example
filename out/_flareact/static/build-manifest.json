@@ -1,0 +1,19 @@
+{
+  "helpers": [
+    "iuumlqH1tB5YnlMcbeaFM/_buildManifest.js"
+  ],
+  "pages": {
+    "/index": [
+      "main.18d08a9845d37561a3cf.js",
+      "webpack.js",
+      "framework.9296609902808c09cdd0.js",
+      "pages/index.404d7be82d5afb362011.js"
+    ],
+    "/_app": [
+      "main.18d08a9845d37561a3cf.js",
+      "webpack.js",
+      "framework.9296609902808c09cdd0.js",
+      "pages/_app.40485c4b64626fd64639.js"
+    ]
+  }
+}

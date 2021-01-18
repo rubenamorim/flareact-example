@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {"/index":["pages/index.404d7be82d5afb362011.js"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB();
